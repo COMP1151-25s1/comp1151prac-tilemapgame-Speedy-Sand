@@ -18,10 +18,10 @@
         },
         "Draft2.tmx": {
             "scale": 2,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 87.5,
-                "y": 87.25
+                "x": 192.5,
+                "y": 103.75
             }
         },
         "TinyDugeon_Tilesheet.tsx": {
@@ -43,15 +43,14 @@
     "map.tileWidth": 16,
     "map.width": 16,
     "openFiles": [
-        "Draft.tmx",
         "TinyDugeon_Tilesheet.tsx",
         "Draft2.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "Draft.tmx",
         "TinyDugeon_Tilesheet.tsx",
         "Draft2.tmx",
+        "Draft.tmx",
         "TinyDungeon_Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
