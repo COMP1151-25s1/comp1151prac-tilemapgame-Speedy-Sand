@@ -1,0 +1,63 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Draft2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Draft.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 266.5,
+                "y": -99.25
+            }
+        },
+        "Draft2.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 87.5,
+                "y": 87.25
+            }
+        },
+        "TinyDugeon_Tilesheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.imagePath": "C:/Users/Stuart/Documents/GitHub/comp1151prac-tilemapgame-Speedy-Sand/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 16,
+    "openFiles": [
+        "Draft.tmx",
+        "TinyDugeon_Tilesheet.tsx",
+        "Draft2.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Draft.tmx",
+        "TinyDugeon_Tilesheet.tsx",
+        "Draft2.tmx",
+        "TinyDungeon_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
